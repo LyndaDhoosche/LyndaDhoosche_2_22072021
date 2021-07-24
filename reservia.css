@@ -311,7 +311,7 @@ input {
   border-radius: 15px;
   width: 32%;
   padding: 20px;
-  display: flex;
+  display: grid;
 }
 
 .hebergementspop {
@@ -319,7 +319,6 @@ input {
 }
 
 .hotelpop {
-  display: flex;
   width: 100%;
   background: white;
   border-radius: 20px;
