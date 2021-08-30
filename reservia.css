@@ -499,7 +499,7 @@ footer {
 
 /*RESPONSIVE MOBILES*/
 
-@media (min-width: 300px) and (max-width: 767px) /* SMARTPHONES */ {
+@media (max-width: 767px) /* SMARTPHONES */ {
   /* PARAMETRES GENERAUX */
 
   h2 {
