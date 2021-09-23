@@ -75,6 +75,10 @@ a {
   color: black;
 }
 
+.lienHebergements a {
+  color: #0065fc;
+}
+
 .inscrire a {
   color: #0065fc;
   margin-right: 0%;
