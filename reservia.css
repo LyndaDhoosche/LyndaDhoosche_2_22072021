@@ -579,7 +579,8 @@ footer {
   /* FILTRES */
 
   .filtres {
-    display: grid;
+    //display: grid;
+    flex-wrap: wrap;
   }
 
   .titrefiltres {
@@ -587,8 +588,12 @@ footer {
   }
 
   .barreFiltre {
-    width: 50%;
+    //width: 50%;
     margin-bottom: 10px;
+  }
+  
+   .barreFiltre:nth-child(odd) {
+    margin-right: 1em;
   }
 
   .fam {
