@@ -583,7 +583,7 @@ footer {
   /* FILTRES */
 
   .filtres {
-    //display: grid;
+    /*display: grid;*/
     flex-wrap: wrap;
   }
 
@@ -592,7 +592,7 @@ footer {
   }
 
   .barreFiltre {
-    //width: 50%;
+    /*width: 50%;*/
     margin-bottom: 10px;
   }
   
